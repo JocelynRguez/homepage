@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Vibur');
+
+* {
+	margin: 0;
+
+}
+
+h1 {
+	font-family: Vibur, Oswald, serif;
+	font-size: 300%;
+	text-align: center;
+	font-weight: bold;
+	letter-spacing: .05em;
+	background-color: Blue;
+	height: 100%;
+	padding: 15px;
+	overflow: auto;
+}
+
+li {
+	text-indent: 50px;
+	line-height: 20px;
+
+}
+
+.images {
+	padding: 10px;
+	margin: 10px;
+	text-align:center;
+	position: center;
+	
+}
+
+#education {
+	clear: both;
+	line-height: 17px;
+	text-align: center;
+
+}
+
+#profile {
+	font-size: 30%;
+	margin: 20px;
+	border-radius: 50%;
+	float: left;
+	clear: left;
+
+}
+
+#bio {
+	text-align: left;
+	line-height: 19px;
+	margin-right: 50px
+
+}
+
